@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.76674693d0229537dc02fa791b397e96.js"
+  "/precache-manifest.a9f8b98c3e2c6864a626d0fb7dabfe5b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "trackecc"});

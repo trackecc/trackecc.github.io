@@ -1,7 +1,8 @@
 # trackecc.github.io
 追蹤電子消費卡使用情況 ([網址](https://trackecc.github.io))
 
-## 齊消費 促經濟
+## 齊消費 促經濟 促內需 穩就業
+![消費卡正面圖片](/images/card_style_fs.jpg) ![消費卡背面圖片](/images/card_style_bs.jpg)
 
 ## 特色
 - 方便 - 可以儲存6張消費卡資料到用戶設備中，不需要重覆輸入卡號或相關的餘額資料等
